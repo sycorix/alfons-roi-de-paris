@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages of Alfons
 
 You can use the [editor on GitHub](https://github.com/sycorix/alfons-roi-de-paris/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
